@@ -1,7 +1,7 @@
-## Matheus é meu nome, Spider é minha marca. 🕸
+## Meu nome é Matheus.
 - 🔭 Cursando Engenharia de software
   
-### Sou um jovem de 21 anos, entusiasta da programação e das tecnologias em geral. Estudo bastante Java, em especial o framework Spring, no qual já desenvolvi alguns projetos.
+### Sou um jovem de 22 anos, entusiasta da programação e de tecnologias em geral. Estudo bastante Java, em especial o framework Spring, no qual já desenvolvi alguns projetos.
   <div display:"center">
     <a href="[https://github.com/SpiderTheus](https://github.com/SpiderTheus)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpiderTheus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
