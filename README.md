@@ -1,5 +1,5 @@
 ## Meu nome é Matheus.
-- 🔭 Cursando Engenharia de software
+- 🔭 Engenheiro de software
   
 ### Sou um jovem de 22 anos, entusiasta da programação e de tecnologias em geral. Estudo bastante Java, em especial o framework Spring, no qual já desenvolvi alguns projetos.
   <div display:"center">
